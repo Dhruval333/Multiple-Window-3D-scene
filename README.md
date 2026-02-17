@@ -6,7 +6,6 @@ This project creates a 3D scene where objects are synchronized across multiple b
 
 1.  **Start the Server**:
     Running `npx.cmd serve .` in this directory is required.
-    (This has already been started for you).
 
 2.  **Open in Browser**:
     Go to [http://localhost:3000](http://localhost:3000) or [http://localhost:5000](http://localhost:5000) depending on port.
@@ -20,3 +19,4 @@ This project creates a 3D scene where objects are synchronized across multiple b
     - Ensure you allowing popups/local storage.
     - Refresh the page.
     - Check browser console for errors.
+
